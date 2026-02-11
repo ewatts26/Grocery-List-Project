@@ -1,0 +1,15 @@
+Additional method reflection:
+Describe the additional method you created in the GroceryList (pseudocode). Briefly
+touch on how this new method enhances your program (e.g. in terms of
+functionality, usability, overall purpose, etc).
+    This method returns the total cost after giving an additional 10% off for every 10 items. 
+    This adds a new element to my program because it would intice buyers to by more things and they get a discount.
+Major limitations?
+Name one major limitation of the program that impacts the overall usability and
+experience of the program. How would your program improve if this limitation was
+accounted for? Why is it important?
+    ONe major limitation is that 
+Diagram
+Create a diagram indicating the changes made to your list using the sequence
+appearing in your tester. If you opted to create a UI, provide one possible path a user
+can take to add/remove from the list and create your diagram using these values.
